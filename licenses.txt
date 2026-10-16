@@ -1,0 +1,4 @@
+#KK-Rambo licenses v1
+issued=2026-10-16T03:24:32Z
+G3N2-Z244-VYV6-WL9W|2026-11-15
+sig=wuwolqIFMWpvAG2h0tsWvlAtL9DjyL7pvFSf62uAWNZvYw/1FckBPwFHLVS8kGKfu51fvT1x0jhFYZurX17qGw==
